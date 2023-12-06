@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Mo Parking\bin\Debug\Mo Parking.exe.config
+C:\Users\User\Desktop\Mo Parking\bin\Debug\Mo Parking.exe
+C:\Users\User\Desktop\Mo Parking\bin\Debug\Mo Parking.pdb
+C:\Users\User\Desktop\Mo Parking\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo_Parking.frmAutomobili.resources
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo_Parking.Login.resources
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo_Parking.Lokacije.resources
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo_Parking.Parking.resources
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo_Parking.Properties.Resources.resources
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.csproj.CopyComplete
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.exe
+C:\Users\User\Desktop\Mo Parking\obj\Debug\Mo Parking.pdb
+C:\Users\User\Desktop\MoParking\bin\Debug\Mo Parking.exe.config
+C:\Users\User\Desktop\MoParking\bin\Debug\Mo Parking.exe
+C:\Users\User\Desktop\MoParking\bin\Debug\Mo Parking.pdb
+C:\Users\User\Desktop\MoParking\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo_Parking.frmAutomobili.resources
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo_Parking.Login.resources
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo_Parking.Lokacije.resources
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo_Parking.Parking.resources
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo_Parking.Properties.Resources.resources
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.csproj.CopyComplete
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.exe
+C:\Users\User\Desktop\MoParking\obj\Debug\Mo Parking.pdb
